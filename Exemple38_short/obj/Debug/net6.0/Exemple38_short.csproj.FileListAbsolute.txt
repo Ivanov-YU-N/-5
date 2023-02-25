@@ -1,0 +1,15 @@
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/bin/Debug/net6.0/Exemple38_short
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/bin/Debug/net6.0/Exemple38_short.deps.json
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/bin/Debug/net6.0/Exemple38_short.runtimeconfig.json
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/bin/Debug/net6.0/Exemple38_short.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/bin/Debug/net6.0/ref/Exemple38_short.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/bin/Debug/net6.0/Exemple38_short.pdb
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.csproj.AssemblyReference.cache
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.GeneratedMSBuildEditorConfig.editorconfig
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.AssemblyInfoInputs.cache
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.AssemblyInfo.cs
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.csproj.CoreCompileInputs.cache
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/ref/Exemple38_short.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.pdb
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple38_short/obj/Debug/net6.0/Exemple38_short.genruntimeconfig.cache
