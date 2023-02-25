@@ -1,0 +1,15 @@
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/bin/Debug/net6.0/Exemple36
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/bin/Debug/net6.0/Exemple36.deps.json
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/bin/Debug/net6.0/Exemple36.runtimeconfig.json
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/bin/Debug/net6.0/Exemple36.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/bin/Debug/net6.0/ref/Exemple36.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/bin/Debug/net6.0/Exemple36.pdb
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.csproj.AssemblyReference.cache
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.GeneratedMSBuildEditorConfig.editorconfig
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.AssemblyInfoInputs.cache
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.AssemblyInfo.cs
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.csproj.CoreCompileInputs.cache
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/ref/Exemple36.dll
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.pdb
+/home/eve/Рабочий стол/CSharp/Seminar5/Exemple36/obj/Debug/net6.0/Exemple36.genruntimeconfig.cache
